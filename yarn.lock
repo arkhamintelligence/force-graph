@@ -1145,12 +1145,9 @@ caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001370:
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001378.tgz#3d2159bf5a8f9ca093275b0d3ecc717b00f27b67"
   integrity sha512-JVQnfoO7FK7WvU4ZkBRbPjaot4+YqxogSDosHv0Hv5mWpUESmN+UubMU6L/hGz8QlQ2aY5U0vR6MOs6j/CXpNA==
 
-canvas-color-tracker@1:
+canvas-color-tracker@arkhamintelligence/canvas-color-tracker:
   version "1.1.6"
-  resolved "https://registry.yarnpkg.com/canvas-color-tracker/-/canvas-color-tracker-1.1.6.tgz#f7446e6f8148c4996b3e9a60525eb24c6661ccc8"
-  integrity sha512-LpKiona7TwN0rpLgGcdvAw/HVV9HGCSSyOoSJkLyUP+VZmTX2uAnunGVoKrEHQ/7i+lyu6HfazdHV93vLrjK5Q==
-  dependencies:
-    tinycolor2 "^1.4.2"
+  resolved "https://codeload.github.com/arkhamintelligence/canvas-color-tracker/tar.gz/27effce73bac2a4fc6afc8cf0f9b3908cf745a64"
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -2435,11 +2432,6 @@ terser@^5.0.0:
     acorn "^8.5.0"
     commander "^2.20.0"
     source-map-support "~0.5.20"
-
-tinycolor2@^1.4.2:
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/tinycolor2/-/tinycolor2-1.4.2.tgz#3f6a4d1071ad07676d7fa472e1fac40a719d8803"
-  integrity sha512-vJhccZPs965sV/L2sU4oRQVAos0pQXwsvTLkWYdqJ+a8Q5kPFzJTuOFwy7UniPli44NKQGAglksjvOcpo95aZA==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
